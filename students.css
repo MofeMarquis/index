@@ -1,0 +1,29 @@
+body
+{
+	font-family: "Convergence", sans-serif;
+	background: grey;
+	padding: 0;
+	margin: 0;
+}
+
+
+input
+{
+		font-family: 'Convergence' sans-serif;
+		font-size: 10px;
+		weight: 100%;
+		height: 100%;
+		border-radius: 5px; 
+		outline:none;
+		
+		
+}
+
+.custom-field .placeholder
+{
+	position: absolute;
+	left: 12px;
+	top: calc(50% + 10px);
+	color: #ooo;
+	transform: translateY(-50%);
+	
